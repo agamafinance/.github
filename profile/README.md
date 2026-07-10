@@ -1,6 +1,6 @@
 # Agama Finance
 
-Private credit yield infrastructure on Stellar.
+Private credit yield infrastructure.
 
 Users deposit USDC into curated vaults and receive **agUSD**, a composable synthetic dollar backed by diversified real-world credit pools from vetted originators. Staking agUSD produces **sagUSD**, which appreciates as private credit repayments generate returns on-chain.
 

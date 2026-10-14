@@ -1,4 +1,4 @@
-<img src="agama-banner-v2.png" alt="Agama" width="100%">
+<img src="agama-banner-v3.png" alt="Agama" width="100%">
 
 [![Website](https://img.shields.io/badge/website-agama.finance-3A7A5A?style=flat)](https://agama.finance)
 [![Docs](https://img.shields.io/badge/docs-Agama-3A7A5A?style=flat)](https://docs.agama.finance)
